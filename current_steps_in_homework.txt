@@ -1,0 +1,2 @@
+Built the git repo
+added main.py to both PyPoll and PyBank
